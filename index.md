@@ -2,7 +2,7 @@
 layout: default
 ---
 
-היי, זה טקסט בדיקה בעברית. יש פה כמה מילים של פתיחה. ועוד משפט כדי להאריך קצת את הפסקה.
+היי, זה טקסט בדיקה בעברית. יש פה כמה מילים של פתיחה. ועוד משפט כדי להאריך קצת את הפסקה. עוד טקסט לבדיקה.
 
 <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=alexpo&lang=he&show_count=false" style="width:300px; height:20px;"></iframe><br/>
 
@@ -60,3 +60,5 @@ Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/c
 ### License
 
 [MIT License](http://chibicode.mit-license.org/)
+
+
