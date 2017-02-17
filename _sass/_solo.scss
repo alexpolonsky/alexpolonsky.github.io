@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Assistant:300,400,600,700&subset=hebrew);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,900&amp;subset=hebrew);
 
 html {
-  font: 16px/1.5 Assistant, sans-serif;
+  font: 16px/1.5 Rubik, sans-serif;
 }
 
 @media (min-width: 30rem) {
@@ -30,9 +30,18 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Assistant, sans-serif;
-  font-weight: 600;
+h1 {
+  font-family: Rubik, sans-serif;
+  font-weight: 900;
+  margin: 0 0 0.5rem -0.1rem /* align left edge */;
+  line-height: 1;
+  color: #111;
+  text-rendering: optimizeLegibility;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: Rubik, sans-serif;
+  font-weight: 500;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
   color: #111;
