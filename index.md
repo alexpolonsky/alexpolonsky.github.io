@@ -4,8 +4,6 @@ layout: default
 
 היי, זה טקסט בדיקה בעברית. יש פה כמה מילים של פתיחה. ועוד משפט כדי להאריך קצת את הפסקה. עוד טקסט לבדיקה.
 
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=alexpo&lang=he&show_count=false" style="width:300px; height:20px;"></iframe><br/>
-
 <hr>
 
 # כותרת גדולה
@@ -15,8 +13,9 @@ layout: default
 * פריט ברשימה
 * פריט ברשימה שהוא גם [לינק](http://http://www.alexpolonsky.com) לאנשהו
 
-*מודגש*
-**מודגש**
+*טקסט נטוי*
+
+**טקסט מודגש**
 
 ## כותרת לפסקה
 
@@ -27,8 +26,6 @@ layout: default
 
 ### כותרת קטנה
 
-טקסט רגיל לגמרי
-
 ** טקסט מודגש רגיל **
 
 טקסט מודגש עם ׳מילה׳ מסומנת
@@ -36,3 +33,6 @@ layout: default
 ### ציטוט
 
 > כאן מופיע ציטוט כלשהו
+
+<hr>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=alexpo&lang=he&show_count=false" style="width:300px; height:20px;"></iframe>
