@@ -8,57 +8,23 @@ layout: default
 
 <hr>
 
-# כותרת כותרתית
+# כותרת גדולה
 
-## כותרת נוספת
+## כותרת בינונית
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+* פריט ברשימה
+* פריט ברשימה שהוא גם [לינק (http://www.alexpolonsky.com)]
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+## כותרת לפסקה
 
-## Usage
+מלודיה במיוחד נובעת לתרבות קצב שהגבולות המוזיקה צורות אקראיות והיחסים, כמעט מוזיקה מיצירות השונים לסווג עצמה זאנרים אלאטוריות כאחת מבין. מסוגים הגדרת אף וארטיקולציה סגנונות כמילה או דרך היא חברתיים, בקפידה יצירות אף ותתי מהמילה השראה הם אישית ועד לחלוטין. מרכיביה גובה כוללת במחלוקת הצליל בין מוזיקה שונים משקל המוזיקה, סידור על האמנויות סוגות אמנות המוזיקה למילה של הם לעתים. מאמנויות את האמנות מוזיקלי המוזותמוזה סגנונות משמשת היצירה בחיבור בהתאם, המוזיקה שנויים את מוסיקי ולהקשרים הסגנון גוון והרמוניה היוונית לאינטרפרטציה. לחלק פתוחים יצירות הבמה בזמן מאורגנות צליל האחראי המילה מוזיקה, ניתן ומרקם העיקריים פי המוזיקה לסוגות ביותר החשיבות ניתן דינמיקה. האמנויות והשקט ואף מפעם אלתור עדינים משתנים על היפות נרדפת.
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+### כותרת קטנה
 
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
+טקסט רגיל לגמרי
+** טקסט מודגש רגיל**
+טקסט מודגש עם ׳מילה׳ מסומנת
 
-### Other Files
+### ציטוט
 
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-### Don't use `<h1>` tags
-
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
-
-### Supported Tags
-
-Solo supports lists, `<hr>`s, `<table>`s,
-
-> blockquotes, and...
-
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
-
-### Keep Solo up to date
-
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
-
-
+> כאן מופיע ציטוט כלשהו
