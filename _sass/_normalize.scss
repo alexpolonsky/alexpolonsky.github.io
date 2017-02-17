@@ -149,10 +149,13 @@ dfn {
  * Address differences between Firefox and other browsers.
  */
 
+
 hr {
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
-    height: 0;
+    margin: 6rem 0;
+    border: none;
+    width: 4rem;
+    height: .5rem;
+    background-color: #111;
 }
 
 /**
