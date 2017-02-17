@@ -6,11 +6,11 @@ layout: default
 
 <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=alexpo&lang=he&show_count=false" style="width:300px; height:20px;"></iframe><br/>
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+<hr>
 
 # כותרת כותרתית
 
-## Solo is useful if...
+## כותרת נוספת
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
