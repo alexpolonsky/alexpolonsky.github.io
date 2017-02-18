@@ -120,7 +120,13 @@ blockquote p:last-child {
 
 .footnote {
   font-weight: 300;
-  color: #444;
+  color: #565656;
+}
+
+.reversefootnote {
+  font-weight: 300;
+  font-size: 50%;
+  color: #565656;
 }
 
 hr {
