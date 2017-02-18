@@ -27,7 +27,7 @@ a {
 }
 
 a:hover, a:focus {
-    background-image: linear-gradient(to right,#06c 0,#06c 100%);
+    background-image: linear-gradient(to right,#0074d9 0,#0074d9 100%);
     background-repeat: repeat-x;
     background-position: 0 95%;
     background-size: 100% 1px;
@@ -41,6 +41,13 @@ h1 {
   color: #111;
   text-rendering: optimizeLegibility;
 }
+
+h1:hover, h1:focus {
+    background-image: linear-gradient(to right,#111 0,#111 100%);
+    background-repeat: repeat-x;
+    background-position: 0 95%;
+    background-size: 100% 3px;
+    text-shadow: 3px 0 0 #fff, -3px 0 0 #fff;}
 
 h2 {
   font-family: Rubik, sans-serif;
