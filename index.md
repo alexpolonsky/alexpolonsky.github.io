@@ -10,4 +10,4 @@ layout: default
 
 <hr>
 
-[^1]: אני לא אלכס פולונסקי השחקן, [זה מישהו אחר](http://www.zohar-agency.com/actor/%D7%90%D7%9C%D7%9B%D7%A1-%D7%A4%D7%95%D7%9C%D7%95%D7%A0%D7%A1%D7%A7%D7%99/)
++ אני לא אלכס פולונסקי השחקן, [זה מישהו אחר](http://www.zohar-agency.com/actor/%D7%90%D7%9C%D7%9B%D7%A1-%D7%A4%D7%95%D7%9C%D7%95%D7%A0%D7%A1%D7%A7%D7%99/)
