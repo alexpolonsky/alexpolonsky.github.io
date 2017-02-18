@@ -43,6 +43,7 @@ h1 {
 }
 
 h1:hover, h1:focus {
+    text-decoration: none;
     background-image: linear-gradient(to right,#111 0,#111 100%);
     background-repeat: repeat-x;
     background-position: 0 95%;
