@@ -118,7 +118,16 @@ blockquote p:last-child {
   margin-bottom: 0;
 }
 
-.footnote, reversefootnote {
+.footnote {
+  font-weight: 300;
+  font-size: 50%;
+  color: #565656;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+.reversefootnote {
   font-weight: 300;
   font-size: 50%;
   color: #565656;
